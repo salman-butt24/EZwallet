@@ -1,4 +1,5 @@
 # EZwallet
+St. John's University
 Software Engineering - Capstone Project
 
 EZwallet is a bill payment and management service that lets you pay/manage your bills on the fly and use any of your debit/credit card(s) safely and securely
