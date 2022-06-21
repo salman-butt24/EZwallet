@@ -41,7 +41,7 @@ Mako==1.0.7
 MarkupSafe==1.1.1
 newsapi==0.1.1
 newsapi-python==0.2.3
-numpy==1.16.2
+numpy==1.22.0
 pandas==0.24.2
 pathspec==0.5.9
 pycparser==2.19
